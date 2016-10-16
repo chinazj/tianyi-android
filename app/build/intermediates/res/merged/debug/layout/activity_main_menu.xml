@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zj.tianyi.MainMenu"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="pswd"
+            android:layout_weight="3"
+            android:textSize="30sp"/>
+        <TextView
+            android:id="@+id/account_passwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:text="0"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/device_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:text="设备状态"/>
+
+        <Button
+            android:id="@+id/launch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:text="设备上线"/>
+        <Button
+            android:id="@+id/inlaunch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:text="设备下线" />
+        <Button
+            android:id="@+id/login_out"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:text="设置设备信息" />
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:text="更新登录信息" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

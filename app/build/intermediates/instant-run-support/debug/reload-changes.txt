@@ -1,0 +1,12 @@
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/MainMenu$MyOnclikListener$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$3$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/MainMenu$MyOnclikListener$1$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/MainMenu$MyOnclikListener$2$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/MainMenu$1$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/MainMenu$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$2$1$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$2$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$1$1$override.class
+CHANGED,/home/zj/java^android/android/AndroidStudioProjects/mytianyi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/zj/tianyi/login$1$override.class
